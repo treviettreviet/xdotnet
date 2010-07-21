@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TierGenerator">
+</Property><Property Name="Solution File" Value="E:\my_imp_data\learning\TierGenerator\TierGenerator.sln">
+</Property><Property Name="Date" Value="Saturday, July 10, 2010">
+</Property><Property Name="Time" Value="3:38:58 AM">
+</Property></Properties><Event ErrorLevel="0" Project="TierGenerator" Source="TierGenerator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TierGenerator" Source="TierGenerator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TierGenerator" Source="TierGenerator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
